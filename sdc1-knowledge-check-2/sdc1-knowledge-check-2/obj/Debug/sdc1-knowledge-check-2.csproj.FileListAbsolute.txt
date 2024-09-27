@@ -1,0 +1,7 @@
+C:\Users\lncon\Documents\Projects\sdc1-knowledge-check-2\sdc1-knowledge-check-2\obj\Debug\sdc1-knowledge-check-2.csproj.AssemblyReference.cache
+C:\Users\lncon\Documents\Projects\sdc1-knowledge-check-2\sdc1-knowledge-check-2\obj\Debug\sdc1-knowledge-check-2.csproj.CoreCompileInputs.cache
+C:\Users\lncon\Documents\Projects\sdc1-knowledge-check-2\sdc1-knowledge-check-2\bin\Debug\sdc1-knowledge-check-2.exe.config
+C:\Users\lncon\Documents\Projects\sdc1-knowledge-check-2\sdc1-knowledge-check-2\bin\Debug\sdc1-knowledge-check-2.exe
+C:\Users\lncon\Documents\Projects\sdc1-knowledge-check-2\sdc1-knowledge-check-2\bin\Debug\sdc1-knowledge-check-2.pdb
+C:\Users\lncon\Documents\Projects\sdc1-knowledge-check-2\sdc1-knowledge-check-2\obj\Debug\sdc1-knowledge-check-2.exe
+C:\Users\lncon\Documents\Projects\sdc1-knowledge-check-2\sdc1-knowledge-check-2\obj\Debug\sdc1-knowledge-check-2.pdb
